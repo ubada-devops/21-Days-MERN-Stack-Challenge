@@ -1,4 +1,4 @@
-### 50-Day MERN Stack Mastery Challenge
+### 30-Day MERN Stack Mastery Challenge
 
 ___
 ## Project Vision
